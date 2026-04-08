@@ -1,0 +1,78 @@
+{
+  "team_1": {
+    "name": "India",
+    "lineup": [
+      "RG Sharma",
+      "YBK Jaiswal",
+      "V Kohli",
+      "SA Yadav",
+      "RR Pant",
+      "HH Pandya",
+      "RA Jadeja",
+      "AR Patel",
+      "Kuldeep Yadav",
+      "JJ Bumrah",
+      "Arshdeep Singh"
+    ],
+    "bowling_sequence": [
+      "Arshdeep Singh",
+      "JJ Bumrah",
+      "Arshdeep Singh",
+      "JJ Bumrah",
+      "AR Patel",
+      "Arshdeep Singh",
+      "RA Jadeja",
+      "Kuldeep Yadav",
+      "RA Jadeja",
+      "Kuldeep Yadav",
+      "HH Pandya",
+      "Kuldeep Yadav",
+      "HH Pandya",
+      "Kuldeep Yadav",
+      "AR Patel",
+      "RA Jadeja",
+      "JJ Bumrah",
+      "Arshdeep Singh",
+      "JJ Bumrah",
+      "HH Pandya"
+    ]
+  },
+  "team_2": {
+    "name": "Australia",
+    "lineup": [
+      "DA Warner",
+      "TM Head",
+      "MR Marsh",
+      "GJ Maxwell",
+      "MP Stoinis",
+      "TH David",
+      "MS Wade",
+      "PJ Cummins",
+      "MA Starc",
+      "A Zampa",
+      "JR Hazlewood"
+    ],
+    "bowling_sequence": [
+      "MA Starc",
+      "JR Hazlewood",
+      "MA Starc",
+      "JR Hazlewood",
+      "PJ Cummins",
+      "MA Starc",
+      "A Zampa",
+      "GJ Maxwell",
+      "A Zampa",
+      "GJ Maxwell",
+      "MP Stoinis",
+      "A Zampa",
+      "MP Stoinis",
+      "A Zampa",
+      "PJ Cummins",
+      "GJ Maxwell",
+      "JR Hazlewood",
+      "MA Starc",
+      "PJ Cummins",
+      "JR Hazlewood"
+    ]
+  }
+}
